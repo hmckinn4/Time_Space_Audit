@@ -1,0 +1,38 @@
+Chance Type,Shooting Percent_all,Shooting Percent_TS_True,Shooting Percent_TS_False,TS_True_minus_all,TS_True_minus_TS_False,all_minus_TS_False
+Behind the Net,0.03,0.11,0.02,0.08,0.09,0.01
+Behind the Net To Slot One Timer,0.22,0.31,0.19,0.09,0.12,0.03
+Breakaway,0.29,0.3,0.27,0.01,0.03,0.02
+BTN Broken Play,0.15,0.22,0.13,0.07,0.09,0.02
+CS Broken Play,0.12,0.21,0.09,0.09,0.12,0.03
+CS Odd Man Rush Slot,0.2,0.24,0.14,0.04,0.1,0.06
+CS Outside Slot Area,0.02,0.03,0.01,0.01,0.02,0.01
+CS Perimeter,0,0,0,0,0,0
+CS Slot Area,0.03,0.07,0.03,0.04,0.04,0
+Defensive Screen,0.08,0.09,0.08,0.01,0.01,0
+Deflection In Air,0.14,0.18,0.13,0.04,0.05,0.01
+Deflection On Ice,0.04,0.06,0.04,0.02,0.02,0
+Goalie Error,0.64,0.79,0.57,0.15,0.22,0.07
+Half-Ice Breakaway,0.13,0.17,0.09,0.04,0.08,0.04
+High % Broken Play,0.38,0.44,0.37,0.06,0.07,0.01
+High One Timer,0.01,0.01,0.01,0,0,0
+High Slot Line Pass,0.16,0.19,0.12,0.03,0.07,0.04
+Layered Screen,0.15,0.18,0.11,0.03,0.07,0.04
+Low Slot Line Pass,0.34,0.4,0.29,0.06,0.11,0.05
+Mid % Broken Play,0.23,0.33,0.21,0.1,0.12,0.02
+Net Broken Play,0.13,0.42,0.12,0.29,0.3,0.01
+Net Play,0.02,0.06,0.02,0.04,0.04,0
+Offensive Screen,0.04,0.05,0.04,0.01,0.01,0
+One Timer / Deflection,0.1,0.14,0.09,0.04,0.05,0.01
+One Timer Outside Slot Area,0.04,0.05,0.03,0.01,0.02,0.01
+Partial Breakaway,0.26,0.29,0.24,0.03,0.05,0.02
+Passed Off Rebound,0.43,0.55,0.35,0.12,0.2,0.08
+Screened One Timer,0.32,0.39,0.26,0.07,0.13,0.06
+Screened/Deflection,0.19,0.22,0.18,0.03,0.04,0.01
+Slot Area Screen,0.29,0.41,0.24,0.12,0.17,0.05
+Slot Line Carry,0.17,0.32,0.14,0.15,0.18,0.03
+Slot Line Double,0.54,0.68,0.41,0.14,0.27,0.13
+Slot One Timer,0.11,0.16,0.09,0.05,0.07,0.02
+Strong High % Rebound,0.11,0.27,0.09,0.16,0.18,0.02
+Strong Mid % Rebound,0.08,0.28,0.07,0.2,0.21,0.01
+Weak Mid % Rebound,0.42,0.62,0.38,0.2,0.24,0.04
+nan,nan,nan,nan,nan,nan,nan
